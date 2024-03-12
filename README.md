@@ -1,6 +1,6 @@
 # Full Stack App with REST API and React JS
 
-A Full-stack application using a REST API for the backend and React JS for the frontend.
+A Full-stack application featuring a RESTful API backend and a React.js frontend. The backend leverages technologies such as Spring, Spring Boot, JPA, MySQL, and Spring Security to ensure robustness, data management, and security. Together, these components form a scalable architecture for seamless integration, enabling efficient development and deployment of full-stack applications.
 
 ## Table of Contents
 
